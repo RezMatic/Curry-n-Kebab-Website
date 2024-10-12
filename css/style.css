@@ -371,7 +371,7 @@ p {
 
 .fh5co-main-nav {
   position: relative;
-  background: #ffffff;
+  background: #000000;
 }
 .fh5co-main-nav.fh5co-shadow {
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.3);
@@ -385,7 +385,7 @@ p {
   left: 0;
   height: 2px;
   width: 100%;
-  background: #ffffff;
+  background: #000000;
 }
 .fh5co-main-nav:before {
   top: 2px;
@@ -404,7 +404,7 @@ p {
 .fh5co-main-nav .fh5co-menu-2 a,
 .fh5co-main-nav .fh5co-logo a {
   padding: 35px 10px;
-  color: #130d08;
+  color: #ffffff;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -413,7 +413,7 @@ p {
 
 .fh5co-main-nav .fh5co-menu-2 .nav1 {
   padding: 19px 10px;
-  color: #130d08;
+  color: #ffffff;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -434,7 +434,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a.active,
 .fh5co-main-nav .fh5co-menu-2 a.active,
 .fh5co-main-nav .fh5co-logo a.active {
-  color: #c9215d;
+  color: #ffffff;
 }
 .fh5co-main-nav .fh5co-menu-1 {
   text-align: right;
